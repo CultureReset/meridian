@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/meridian](https://github.com/google/meridian).** Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/meridian).
+>
+> The upstream README follows unchanged.
+
+---
+
 # About Meridian
 
 Marketing mix modeling (MMM) is a statistical analysis technique that measures
